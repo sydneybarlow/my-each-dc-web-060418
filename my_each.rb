@@ -1,4 +1,5 @@
 def my_each(array)
+  counter = 1
   while  do |i|
     puts i
     yield
