@@ -1,5 +1,2 @@
-def my_each(words)
-  my_each(words) do |item|
-    puts item
-  end   
+def my_each
 end
