@@ -1,6 +1,6 @@
 def my_each(array)
   i = 0 
-  while  do |i|
+  while i < array.length
     puts i
     yield
     puts i + 1
