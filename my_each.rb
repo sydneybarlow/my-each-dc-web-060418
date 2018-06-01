@@ -9,4 +9,4 @@ end
 
 my_each(array) do |i|
   puts something
-end   
+end
